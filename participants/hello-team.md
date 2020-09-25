@@ -1,42 +1,29 @@
 # HelloDrive
 
-Before submitting a PR containing your team's project information:
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
-
 ## (0) Project Name and Team Slack Handles
 
-*Please tell us your project's name and the Filecoin Slack handles for your teammates.*
 - Project Name :    __Hello Drive__
 - Team Slack :  spacematrix1
 
 ## (1) Brief Project Description
 
-*Add your project's description here.*
-
 A Cloud Drive.
 
 ## (2) Link to Project UI
 
-*Please include a link to your project application or UI. It does not need to be super polished or completely functional. We will be reviewing this link periodically to verify that your project is eligible for final rewards.*
 
-http://www.spacematrix.com/hellodrive
+Our project is an android app. The UI [screenshot is here.](http://www.spacematrix.com/hellodrive/screenshot),
+And website: http://www.spacematrix.com/hellodrive 
 
 ## (3) What does your application/UI do?
-
-*Give us a brief description of what your application/UI does and how users are intended to interact with it.*
 
 User can get and put files/folders,search and share files with other people.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-*You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
-
 No.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
-
-*What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?*
 
 The data is users' personal files.
 
